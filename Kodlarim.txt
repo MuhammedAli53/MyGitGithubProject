@@ -1,3 +1,6 @@
 v1 kodlari...
 v2 kodlarım!
 v3 kısayol ---> 
+yeni özellikler ekledim.
+version2
+------------------------
