@@ -4,3 +4,12 @@ v3 kısayol --->
 yeni özellikler ekledim.
 version2
 ------------------------
+git init komutu bir kere çalıştırılır.
+asjhdhbgakjsd
+akjusdghıaksd
+akjhsgdıkajsd
+asdasdas
+asdasd
+
+version 1
+--------------------------------------
