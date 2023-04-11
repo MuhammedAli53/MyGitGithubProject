@@ -18,5 +18,7 @@ public class AtmApp {
 
         System.out.println("bazı değişiklikler yaptım.");
 
+        System.out.println("");
+
     }
 }
