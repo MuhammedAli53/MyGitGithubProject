@@ -13,5 +13,8 @@ public class AtmApp {
         //master
         System.out.println("Master branchinde yeni özellikler var");
 
+        //mhmd3
+        System.out.println("muhammed branchi bir adım önde.");
+
     }
 }
