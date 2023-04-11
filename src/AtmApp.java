@@ -8,5 +8,6 @@ public class AtmApp {
         System.out.println("Learn Java Earn money");
         //version 4
         System.out.println("Giti öğrenmek çok kolay");
+        System.out.println("muhammed branchi yeni bir özellik ekledi.");
     }
 }
