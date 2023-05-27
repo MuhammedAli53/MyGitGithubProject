@@ -20,5 +20,7 @@ public class AtmApp {
 
         System.out.println("yeni değişiklikler yaptım");
 
+        System.out.println("master branchindeyim.");
+
     }
 }
